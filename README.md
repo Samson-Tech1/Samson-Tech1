@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Samson Ajayi and I am a current sophomore Computer Science and Business Administration Student at Northeastern University! Nice to meet everyone.
+My name is Samson Ajayi and I am a current senior Computer Science and Business Administration Student at Northeastern University! Nice to meet everyone.
 
 🤔 Currently trying to design my personal website!
 
